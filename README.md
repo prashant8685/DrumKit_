@@ -1,4 +1,4 @@
-# DrumKit_5_Bootcamp-Course-
+# DrumKit_5-
 In this project we covered JavaScript and how to:
 Add Event Listners to a Button, How to Play Sounds on a Website, How to Use Switch Statements in JavaScript, Using Keyboard Event Listeners to Check for Key Presses
 and Adding Animation to Websites
